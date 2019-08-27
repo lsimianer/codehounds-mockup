@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: gold;
+}
+
+header{
+  
+}
+h1{
+  color: ghostwhite;
+  -webkit-text-fill-color: transparent;
+  background:  url("./images/gold2.PNG") repeat;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+  background-clip: text;
+  display: flex;
+  justify-content: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
